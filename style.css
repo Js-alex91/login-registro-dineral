@@ -15,13 +15,13 @@ body
     min-height: 100vh;
     background: #03a9f4;
     transition: 0.5s;
-    background-image: url(/SlidingLoginForm/contratofirma_principal.jpg);
+    background-image: url(SlidingLoginForm/contratofirma_principal.jpg);
     background-size: cover;
 }
 body.active
 {
     background: #f43648;
-    background-image: url(/SlidingLoginForm/hero-bg.jpg);
+    background-image: url(SlidingLoginForm/hero-bg.jpg);
     background-size: cover;
 }
 .container
